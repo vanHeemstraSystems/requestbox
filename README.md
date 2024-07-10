@@ -1,6 +1,10 @@
 requestbox
 # RequestBox
 
+> RequestBox gives you a URL that will collect requests made to it.
+> You can then inspect them in a human-friendly way.
+> Use RequestBox to see what your HTTP client is sending or to inspect and debug webhooks.
+
 Based on "RequestBox" at https://rbox.app
 
 ## 100 - Introduction
