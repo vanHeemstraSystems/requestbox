@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+requestbox
+# RequestBox
 
-Based on "ABC" at https://www.abc.com/
+Based on "RequestBox" at https://rbox.app
 
 ## 100 - Introduction
 
